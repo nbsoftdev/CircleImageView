@@ -4,7 +4,8 @@
 ![CircleImageView](https://raw.githubusercontent.com/nbsoftdev/CircleImageView/refs/heads/master/Screenshot-1.png)![CircleImageView](https://raw.githubusercontent.com/nbsoftdev/CircleImageView/refs/heads/master/Screenshot-2.png)
 
 
-[![](https://jitpack.io/v/nbsoftdev/NBSCircleImage.svg)](https://jitpack.io/#nbsoftdev/NBSCircleImage)
+[![](https://jitpack.io/v/nbsoftdev/CircleImageView.svg)](https://jitpack.io/#nbsoftdev/CircleImageView)
+
 
 
 It uses a BitmapShader and **does not**:
